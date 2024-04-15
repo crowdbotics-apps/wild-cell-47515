@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [django-ocr](backend/modules)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
