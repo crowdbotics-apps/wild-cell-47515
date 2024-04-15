@@ -2532,10 +2532,13 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/photo-editing@file:./modules/photo-editing/":
+"@modules/photo-editing@file:./modules/photo-editing":
   version "1.0.0"
 
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
